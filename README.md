@@ -1,30 +1,64 @@
-Hi 👋, I'm Adnan Ahmed
-A Flutter & Dart enthusiast 💙
-Adnanahmed76
+Hi there! 👋 I'm Adnan Ahmed
 
-🔭 I’m currently working on my own project
+🚀 About Me
 
-🌱 I’m currently exploring Flutter & Dart & Software Architectures (deep)
+I'm a passionate Software Engineer and Flutter Developer with expertise in:
 
-👯 I’m looking for intership and full-time opportunity
+Mobile App Development (Flutter, Dart, Firebase)
 
-📝 I write articles on Medium
+Backend Development (Node.js, Express.js, MongoDB)
 
-💬 Ask me about Mobile App Development, Flutter, Android, iOS, Software Architectures
+State Management (Provider, Riverpod)
 
-📫 How to reach me adnanahmed504423@gmail.com
+REST API Integration
 
-⚡ Fun fact Sometimes I code, Sometimes I debug & Sometimes I Deploy.
+Data Structures & Algorithms (DSA)
 
-🌐 Socials
-https://www.linkedin.com/in/adnan-ahmed-60aa8334a/
+Git & GitHub for version control
 
-🚀 Tech Stack
-flutter dart android css3 firebase gcp git go html5 java javascript kotlin mysql nodejs postgresql redis spring swift typescript
+Full-Stack Development (MERN & Flutter + Node.js)
 
-🧩 GitHub Stats
-Top Langs
+UI/UX Design (Photoshop, Figma)
 
-enter image description here
+🌱 Currently Learning
 
-Show some ❤️ by starring ⭐ the repositories!
+In-depth backend development (Node.js, Express, MongoDB)
+
+Preparing for MCA Entrance (JMI, CUET) focusing on Mathematics
+
+Enhancing Photoshop & UI/UX design skills
+
+📌 Projects
+
+Amazon Clone (Full-Stack App)
+
+FlexMovies (Movie Streaming App)
+
+Task Manager (SQLite-based task tracking app)
+
+Student Attendance App (Firestore & StreamBuilder)
+
+4D Video Feed App (Provider, Wemotions API)
+
+🎯 Goals for 2025
+
+Secure a well-paying job as a full-stack Flutter & backend developer
+
+Complete in-depth backend development & app development training
+
+Expand my open-source contributions
+
+Start freelancing as a thumbnail designer
+
+📫 Connect with Me
+
+💼 LinkedIn
+
+📷 Instagram
+
+🐦 Twitter
+
+📩 Email: your.email@example.com
+
+"Code, Create, and Conquer!" 🚀
+
