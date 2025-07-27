@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Adnan Ahmed</h1>
 
-<h3 align="center">A passionate Flutter developer</h3>
+<h3 align="center"> Flutter developer</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=adnanahmed76&label=Profile%20views&color=0e75b6&style=flat" alt="adnanahmed76" /> 
