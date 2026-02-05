@@ -10,10 +10,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **E-commerce**  
 - 🌱 I’m currently learning **Advanced backend development with Node.js, TypeScript, and MongoDB**  
 - 🤝 I’m looking for help with **Scaling backend for high-traffic apps**  
-- 💬 Ask me about **Flutter, Firebase, Node.js, and State Management**  
+- 💬 Ask me about **Flutter, Firebase, Node.js, and State Management,Android JetPackCompoose**  
 - 📫 How to reach me **adnanahmed504423@gmail.com**  
 - 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1ROUqjrHX-sKep0o86XUbIB9t-F47pnyM/view?usp=sharing)  
 
