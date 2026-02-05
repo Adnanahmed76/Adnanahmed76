@@ -14,7 +14,7 @@
 - 🤝 I’m looking for help with **Scaling backend for high-traffic apps**  
 - 💬 Ask me about **Flutter, Firebase, Node.js, and State Management,Android JetPackCompoose**  
 - 📫 How to reach me **adnanahmed504423@gmail.com**  
-- 📄 Know about my experiences [CV HERE](https://drive.google.com/file/d/1ttYkPhL1cJycY9GMzGSmQtrvkwvbWdI7/view?usp=sharing)  
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/11RW172hqdLR70qvyTw23IhUVmCcKm-Dl/view?usp=sharing)  
 
 ---
 
